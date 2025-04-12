@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi 👋, I'm [Arwa Ayman]!
+#### Data Analyst
 
-<!--
-**Arwa988/Arwa988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 I'm a Data Analyst, building my career one step at a time.
+- 🎓 Studied [Data Science] at [Pharos University], [Alexandria/Egypt].
+- 🐍 Currently learning: **Python**, **SQL**, **Power BI**,  **Excel** , **Machine Learning** and  **Web Development**
+- 📃 Know more about me: [My CV](#) *(replace with a link to your resume)*
+
+---
+
+### 🔥 Latest Projects
+
+Here are some of the projects I’ve worked on:
+- 🧠 [Project Name](#) — Short description of what you did.
+- 📈 [Project Name](#) — Short description of the insights you found.
+- 🗂️ [Project Name](#) — Short description of your tools and outcome.
+
+---
+
+### 📫 Connect With Me
+
+- 📍 Location: [Your Country]
+- 📧 Email: [arwaayman790@gmail.com]
+
+
+
