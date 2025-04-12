@@ -23,7 +23,7 @@ Here are some of the projects I’ve worked on:
 
 ### 📫 Connect With Me
 - 📧 Email: [arwaayman790@gmail.com]
-- 🔗LinkedIn: [(www.linkedin.com/in/arwa-ayman-1a7736252/)]
+- 🔗LinkedIn: [www.linkedin.com/in/arwa-ayman-1a7736252/]
 
 
 
