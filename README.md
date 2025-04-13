@@ -12,12 +12,12 @@
 
 ---
 
-### 🔥 Latest Projects
+### 🔥 Top Projects
 
 Here are some of the projects I’ve worked on:
-- 🧠 [Project Name](#) — Short description of what you did.
-- 📈 [Project Name](#) — Short description of the insights you found.
-- 🗂️ [Project Name](#) — Short description of your tools and outcome.
+- 🧠 [Travel Recommendation system](#)
+- 📈 [E-commerce data analysis using PowerBI](#)
+- 🗂️ [Climate Change on agriculture](#)
 
 ---
 
