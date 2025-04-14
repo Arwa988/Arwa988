@@ -21,7 +21,7 @@ Here are some of the projects I’ve worked on:
 - 📈 E-commerce data analysis using PowerBI
 [Click here to view the project](https://github.com/Arwa988/Travel-Recommendation-System)
 - 🗂️ Climate Change on agriculture
-[Click here to view the project](https://github.com/Arwa988/Travel-Recommendation-System)
+[Click here to view the project](https://github.com/Arwa988/climate-change-on-agriculture-python-PowerBI-)
 
 ---
 
