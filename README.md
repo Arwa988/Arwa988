@@ -8,7 +8,7 @@
 - 📊 I'm a Data  Scientist, building my career one step at a time.
 - 🎓 Studying Data Science at Pharos University, Alexandria/Egypt.
 - 🐍 Currently learning: **Python**, **SQL**, **Power BI**,  **Excel** , **Machine Learning** and  **Web Development**
-- 📃 Know more about me: [My CV](#) *(replace with a link to your resume)*
+- 📃 Know more about me: [My CV](https://drive.google.com/file/d/1AxU5NPTjPJ5QJE8XNtCZm1pxS6nYQzDn/view?usp=sharing) 
 
 ---
 
