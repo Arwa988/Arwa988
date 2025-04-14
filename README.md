@@ -15,7 +15,7 @@
 ### 🔥 Top Projects
 
 Here are some of the projects I’ve worked on:
-## 🧠 Travel Recommendation System  
+- 🧠 Travel Recommendation System  
 [Click here to view the project on GitHub](https://github.com/Arwa988/Travel-Recommendation-System)
 
 - 📈 [E-commerce data analysis using PowerBI](#)
