@@ -22,6 +22,7 @@ Here are some of the projects I’ve worked on:
 [Click here to view the project](https://github.com/Arwa988/E-commerce-Data-analysis-project-PowerBi)
 - 🗂️ Climate Change on agriculture
 [Click here to view the project](https://github.com/Arwa988/climate-change-on-agriculture-python-PowerBI-)
+- 📈 Marketing Campain analysis using SQL and powerBI
 
 ---
 
