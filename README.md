@@ -15,7 +15,7 @@
 ### 🔥 Top Projects
 
 Here are some of the projects I’ve worked on:
--👶Kids Guard ( Graduation Project) 
+- 👶Kids Guard ( Graduation Project) 
 [Click here to view the project](https://github.com/Arwa988/Kids_Guard)
 - 🧠 Travel Recommendation System  
 [Click here to view the project](https://github.com/Arwa988/Travel-Recommendation-System)
